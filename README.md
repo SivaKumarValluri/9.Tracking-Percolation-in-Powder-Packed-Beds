@@ -44,7 +44,7 @@ Here is an example image of segmented image supplied that is used to identify pa
 
 ![image](https://github.com/user-attachments/assets/036b0015-5271-4d16-a239-41b27772ac94)
 
-## 3.Cluster_Finder_with_Statistics: ##
+## 3.Cluster_Finder_with_Statistics: (Contact Network Clustering) ##
 
     - Purpose: Finds and analyzes clusters of particles based on their contact points.
     
