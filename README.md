@@ -2,6 +2,7 @@
 
 The modules in this code accept segmented SEM/optical images of white particles in black background to provide particle stats as well as cluster stats.
 Additional modules follow connected paths between particles and offer plotting convinience.
+![image](https://github.com/user-attachments/assets/7bb65c2b-2337-4a37-b2c1-84ccdcb6fcea)
 
 Here's a summary of what each section of the Python code does:
 
